@@ -1,5 +1,5 @@
 body {
-  background: #342E37;
+  background: #31183e;
   }
 
 .container {
@@ -7,11 +7,11 @@ body {
 } 
   
 h1 {
-  color: #fff;
+  color: #d6c9ea;
   font-family: 'Space Mono', monospace;
   font-size: 3rem;
   text-align: center;
-  font-weight: 300;
+  font-weight: 500;
 }
   
 img {
@@ -31,11 +31,11 @@ form {
   cursor: pointer;
   display: block;
   position: relative;
-  background-color: #676264;
+  background-color: #4a6244;
   padding: 20px 80px;
   margin: 0 auto;
-  border-radius: 20px;
-  box-shadow: 0 6px #2E282A;
+  border-radius: 50px;
+  box-shadow: 0 6px #354212;
 }
   
 .btn a {
